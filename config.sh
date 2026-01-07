@@ -7,7 +7,6 @@
 ##########################################################################################
 #
 # Instructions:
-#
 # 1. Place your files into system folder (delete the placeholder file)
 # 2. Fill in your module's info into module.prop
 # 3. Configure the settings in this file (common/config.sh)
@@ -20,7 +19,7 @@
 ##########################################################################################
 # Configs
 ##########################################################################################
-MODID=AppSystemizer
+MODID=BoredAfGAPPs
 
 # Set to true if you need to enable Magic Mount
 # Most mods would like it to be enabled
@@ -43,7 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "         App Systemizer        "
+  ui_print "         BoredAfGAPPs        "
   ui_print "*******************************"
   ui_print " !!  This module CANNOT be  !! "
   ui_print " !! installed from recovery !! "
